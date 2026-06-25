@@ -1,0 +1,191 @@
+@article{samuel2024personagym,
+  title={PersonaGym: Evaluating Persona Agents and LLMs},
+  author={Samuel, Vinay and Zou, Henry Peng and Zhou, Yue and Chaudhari, Shreyas and Kalyan, Ashwin and Rajpurohit, Tanmay and Deshpande, Ameet and Narasimhan, Karthik and Murahari, Vishvak},
+  journal={ACL 2025},
+  year={2024}
+}
+
+@inproceedings{zhang2020feature,
+  title={Feature extraction with TF-IDF and game-theoretic shadowed sets},
+  author={Zhang, Yan and Zhou, Yue and Yao, JingTao},
+  booktitle={International conference on information processing and management of uncertainty in knowledge-based systems},
+  pages={722--733},
+  year={2020},
+  organization={Springer International Publishing Cham}
+}
+
+@inproceedings{samuel2024towards,
+  title={Towards Data Contamination Detection for Modern Large Language Models: Limitations, Inconsistencies, and Oracle Challenges},
+  author={Samuel, Vinay and Zhou, Yue and Zou, Henry Peng},
+  booktitle={COLING 2025},
+  year={2024}
+}
+
+@article{zhou2020stock,
+  title={Stock index prediction with multi-task learning and word polarity over time},
+  author={Zhou, Yue and Voigt, Kerstin},
+  journal={arXiv preprint arXiv:2008.07605},
+  year={2020}
+}
+
+@inproceedings{zou2023semi,
+  title={Semi-supervised few-shot learning for fine-grained disaster tweet classification},
+  author={Zou, Henry Peng and Caragea, Cornelia and Zhou, Yue and Caragea, Doina},
+  booktitle={Proceedings of the 20th International ISCRAM Conference},
+  year={2023},
+  organization={ISCRAM 2023}
+}
+
+@inproceedings{zhou2020satirical,
+  title={Satirical news detection with semantic feature extraction and game-theoretic rough sets},
+  author={Zhou, Yue and Zhang, Yan and Yao, JingTao},
+  booktitle={International Symposium on Methodologies for Intelligent Systems},
+  pages={123--135},
+  year={2020},
+  organization={Springer International Publishing Cham}
+}
+
+@inproceedings{zhou2024paraphrase,
+  title={Paraphrase and Solve: Exploring and Exploiting the Impact of Surface Form on Mathematical Reasoning in Large Language Models},
+  author={Zhou, Yue and Zhu, Yada and Antognini, Diego and Kim, Yoon and Zhang, Yang},
+  booktitle={Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  volume={1},
+  pages={2793--2804},
+  year={2024}
+}
+
+@inproceedings{zhou2024large,
+  title={Large Language Models Are Involuntary Truth-Tellers: Exploiting Fallacy Failure for Jailbreak Attacks},
+  author={Zhou, Yue and Henry Peng, Zou and Di Eugenio, Barbara and Zhang, Yang},
+  booktitle={The 2024 Conference on Empirical Methods in Natural Language Processing},
+  year={2024}
+}
+
+@inproceedings{zhou2024modeling,
+  title={Modeling Low-Resource Health Coaching Dialogues via Neuro-Symbolic Goal Summarization and Text-Units-Text Generation},
+  author={Zhou, Yue and Di Eugenio, Barbara and Ziebart, Brian and Sharp, Lisa and Liu, Bing and Agadakos, Nikolaos},
+  booktitle={Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)},
+  pages={11498--11509},
+  year={2024}
+}
+
+@inproceedings{zhou2022towards,
+  title={Towards enhancing health coaching dialogue in low-resource settings},
+  author={Zhou, Yue and Di Eugenio, Barbara and Ziebart, Brian and Sharp, Lisa and Liu, Bing and Gerber, Ben and Agadakos, Nikolaos and Yadav, Shweta},
+  booktitle={Proceedings of the 29th International Conference on Computational Linguistics (COLING'2022)},
+  pages={694--706},
+  year={2022}
+}
+
+@inproceedings{zou2023decrisismb,
+  title={DeCrisisMB: Debiased Semi-Supervised Learning for Crisis Tweet Classification via Memory Bank},
+  author={Zou, Henry and Zhou, Yue and Zhang, Weizhi and Caragea, Cornelia},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
+  pages={6104--6115},
+  year={2023}
+}
+
+@inproceedings{zou2024implicitave,
+  title={ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction},
+  author={Zou, Henry and Samuel, Vinay and Zhou, Yue and Zhang, Weizhi and Fang, Liancheng and Song, Zihe and Yu, Philip and Caragea, Cornelia},
+  booktitle={Findings of the Association for Computational Linguistics ACL 2024},
+  year={2024}
+}
+
+@inproceedings{zhou2024unveiling,
+  title={Unveiling Performance Challenges of Large Language Models in Low-Resource Healthcare: A Demographic Fairness Perspective},
+  author={Zhou, Yue and Di Eugenio, Barbara and Lu, Cheng},
+  booktitle={COLING 2025},
+  year={2024}
+}
+
+@inproceedings{zou2025testnuc,
+  title={Testnuc: Enhancing Test-time Computing Approaches through Neighboring Unlabeled Data Consistency},
+  author={Zou, Henry Peng and Gu, Zhengyao and Zhou, Yue and Chen, Yankai and Zhang, Weizhi and Fang, Liancheng and Wang, Yibo and Li, Yangning and Liu, Kay and Yu, Philip S},
+  booktitle={ACL 2025},
+  year={2025}
+}
+
+@inproceedings{zou2025llm,
+  title={LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey},
+  author={Zou, Henry Peng and Huang, Wei-Chieh and Wu, Yaozu and Chen, Yankai and Miao, Chunyu and Nguyen, Hoang and Zhou, Yue and Zhang, Weizhi and Fang, Liancheng and He, Langzhou and others},
+  year={2025},
+  organization={https://arxiv.org/abs/2505.00753}
+}
+
+@article{chaturvedi2025early,
+  title={Early risk prediction with temporally and contextually grounded clinical language processing},
+  author={Chaturvedi, Rochana and Zhou, Yue and Boyd, Andrew D and Layden, Brian T and Rashid, Mudassir and Cheng, Lu and Cinar, Ali and Di Eugenio, Barbara},
+  journal={arXiv preprint arXiv:2511.22038},
+  year={2025}
+}
+
+@article{zhou2026amory,
+  title={Amory: Building Coherent Narrative-Driven Agent Memory through Agentic Reasoning},
+  author={Zhou, Yue and Guo, Xiaobo and Bayar, Belhassen and Sengamedu, Srinivasan H},
+  journal={EACL 2026},
+  year={2026}
+}
+
+@article{miao2025recode,
+  title={Recode-h: A benchmark for research code development with interactive human feedback},
+  author={Miao, Chunyu and Zou, Henry Peng and Li, Yangning and Chen, Yankai and Wang, Yibo and Wang, Fangxin and Li, Yifan and Yang, Wooseong and He, Bowei and Zhang, Xinni and others},
+  journal={ICLR 2026},
+  year={2025}
+}
+
+@inproceedings{zhou2026curse,
+  title={The Curse of Verbalization: How Presentation Order Constrains LLM Reasoning},
+  author={Zhou, Yue and Zou, Henry Peng and Di Eugenio, Barbara and Zhang, Yang},
+  booktitle={Findings of the Association for Computational Linguistics: EACL 2026},
+  pages={4175--4185},
+  year={2026}
+}
+
+@article{zou2025call,
+  title={A call for collaborative intelligence: Why human-agent systems should precede ai autonomy},
+  author={Zou, Henry Peng and Huang, Wei-Chieh and Wu, Yaozu and Miao, Chunyu and Li, Dongyuan and Liu, Aiwei and Zhou, Yue and Chen, Yankai and Zhang, Weizhi and Li, Yangning and others},
+  journal={arXiv preprint arXiv:2506.09420},
+  year={2025}
+}
+
+@inproceedings{zou2025testnuc,
+  title={Testnuc: Enhancing test-time computing approaches and scaling through neighboring unlabeled data consistency},
+  author={Zou, Henry Peng and Gu, Zhengyao and Zhou, Yue and Chen, Yankai and Zhang, Weizhi and Fang, Liancheng and Wang, Yibo and Li, Yangning and Liu, Kay and Yu, Philip S},
+  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={30750--30762},
+  year={2025}
+}
+
+@article{zhang2025large,
+  title={Large multimodal models evaluation: a survey},
+  author={Zhang, Zicheng and Wang, Junying and Wen, Farong and Guo, Yijin and Zhao, Xiangyu and Fang, Xinyu and Ding, Shengyuan and Jia, Ziheng and Xiao, Jiahao and Shen, Ye and others},
+  journal={Science China Information Sciences},
+  volume={68},
+  number={12},
+  pages={221301},
+  year={2025},
+  publisher={Science China Press Beijing}
+}
+
+@inproceedings{zhou2025veracity,
+  title={Veracity Bias and Beyond: Uncovering LLMs’ Hidden Beliefs in Problem-Solving Reasoning},
+  author={Zhou, Yue and Di Eugenio, Barbara},
+  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={21298--21310},
+  year={2025}
+}
+
+@article{he2026resolving,
+  title={Resolving Action Bottleneck: Agentic Reinforcement Learning Informed by Token-Level Energy},
+  author={He, Langzhou and Zhu, Junyou and Zhou, Yue and Gu, Zhengyao and Liu, Junhua and Huang, Wei-Chieh and Zou, Henry Peng and Wipf, David and Yu, Philip S and Wu, Qitian},
+  journal={arXiv preprint arXiv:2605.14558},
+  year={2026}
+}
+
+@article{zou2026users,
+  title={When users change their mind: Evaluating interruptible agents in long-horizon web navigation},
+  author={Zou, Henry Peng and Miao, Chunyu and Huang, Wei-Chieh and Chen, Yankai and Zhou, Yue and Zhang, Hanrong and Wu, Yaozu and Fang, Liancheng and Gu, Zhengyao and Zhang, Zhen and others},
+  journal={arXiv preprint arXiv:2604.00892},
+  year={2026}
+}
