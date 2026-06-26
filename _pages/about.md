@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>↑↑↑ Collaborators Welcome</p>
-    <p style="font-size: 0.85em; color: gray;"><em>Taking scaling law seriously</em></p>
+    <p style="font-size: 0.85em; color: gray;"><em>Taking scaling seriously</em></p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
