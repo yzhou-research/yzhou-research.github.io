@@ -9,8 +9,9 @@ profile:
   image: prof_pic_1.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>C3 Headquarters, 675 Capital One Dr, McLean, VA 22102</p>
-    
+    <p>↑↑↑ Collaborators Welcome</p>
+    <p style="font-size: 0.85em; color: gray;"><em>Taking scaling law seriously</em></p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
