@@ -27,7 +27,7 @@ latest_posts:
 
 I'm a researcher at AI Foundations@Capital One, working on LLMs and agentic AI. I design frameworks to interpret and enhance large language models and develop LLM applications for social good. My goal is to build language model agents that are capable of long-horizon reasoning, cognitively-inspired, and socially aligned.
 
-My current research is driven by post-training (RL, SFT), test-time computing, and agent orchestration, combining methods from deep learning, NLP, and HCI.
+My current research is driven by post-training (RL, OPD), test-time computing, and agent orchestration, combining methods from deep learning, NLP, and HCI.
 
 I obtained my Ph.D. in Computer Science from the [University of Illinois Chicago](https://www.uic.edu/), and during my Ph.D., I served as a visiting scholar at [CSAIL@MIT](https://www.csail.mit.edu/). I earned my master's degree in Information Systems from [University of Freiburg](https://www.uni-freiburg.de/), Germany. 
 
