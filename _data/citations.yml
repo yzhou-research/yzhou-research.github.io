@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-07-22'
 papers:
   nBpU2rYAAAAJ:0EnyYjriUFMC:
     citations: 19
@@ -42,7 +42,7 @@ papers:
     title: Feature extraction with TF-IDF and game-theoretic shadowed sets
     year: '2020'
   nBpU2rYAAAAJ:MXK_kJrjxJIC:
-    citations: 45
+    citations: 46
     title: 'Paraphrase and Solve: Exploring and Exploiting the Impact of Surface Form on Mathematical Reasoning in Large Language Models'
     year: '2024'
   nBpU2rYAAAAJ:QIV2ME_5wuYC:
@@ -54,7 +54,7 @@ papers:
     title: Stock index prediction with multi-task learning and word polarity over time
     year: '2020'
   nBpU2rYAAAAJ:ULOm3_A8WrAC:
-    citations: 30
+    citations: 31
     title: 'ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction'
     year: '2024'
   nBpU2rYAAAAJ:Wp0gIr-vW9MC:
@@ -86,14 +86,14 @@ papers:
     title: 'Recode-h: A benchmark for research code development with interactive human feedback'
     year: '2025'
   nBpU2rYAAAAJ:qxL8FJ1GzNcC:
-    citations: 47
+    citations: 49
     title: 'LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey'
     year: '2025'
   nBpU2rYAAAAJ:roLk4NBRz8UC:
-    citations: 24
+    citations: 23
     title: 'Towards Data Contamination Detection for Modern Large Language Models: Limitations, Inconsistencies, and Oracle Challenges'
     year: '2024'
   nBpU2rYAAAAJ:ufrVoPGSRksC:
-    citations: 121
+    citations: 122
     title: 'PersonaGym: Evaluating Persona Agents and LLMs'
     year: '2024'
